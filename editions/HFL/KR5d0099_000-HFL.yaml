@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0099/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無垢子隨機應化録序唱二陜有全真道者祖貫浙之四明人也父居錢塘而生何君道全君自幼修道號無垢子雲遊東海之上人未之竒也厥後西來終南居於圭峯之墟而道成人以爲異碑有載焉洪武己卯孟春望後君卒於長安醫舍王公贈以羽化之儀禮葬羣仙之塋歲二載孫壽通子來以言而告曰曩與何君交之已久今已去世無復可見噫何君之心高哉復拜手而囑之乞文以冠其目予慨然曰道不能顯諸於形容必紀叙其實行予雖學陋必本諸於言而形容之是以今吉慕道之士者多不能有達於至道之趣而何君達性命之理行無爲之教庸人俗子皆仰其化非其天性純篤何能若是歟賈道玄者何君之門人也齎藁以來不憚千里而必成於序非壽通子吾何爲而作也然壽通子之道顯而何君之道亦顯若合符節自何君去後非壽通子正教無復可傳何君長於壽通子而壽通子敬禮之往矣而又彰之足可以知何君之德二人交契之深語録之作成於何君既没之後其於教良有在焉時洪武辛巳年六月上澣日昆丘靈通子序
+  hash: sha256:9b18d104557bd8cf8d2719a8e382e90e372244b3f2dc30deaf63ccd9dbd51f0f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0099_HFL_000-001a, image: hfl/0740/0740-034.png}
+metadata:
+  title: 隨機應化錄
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:05:04.967721'
+  source:
+    repository: kanripo
+    path: KR5d0099/KR5d0099_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:a8f081fe015cd4a723f4030a74856ac71cef33d6127c9e7e00a0e3017a14be1c
